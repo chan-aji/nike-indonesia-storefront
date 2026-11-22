@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies and Build
+node_modules
+dist
+dist-ssr
+*.local
+
+# Scratch scripts, scrapes, and local screenshots in root
+*.py
+*.txt
+/*.png
+detailed_kids_cards.json
+extracted_kids_sections.json
+kids_card3_products.json
+kids_document_summary.json
+kids_initial_state.json
+kids_scraped_images.json
+kids_script_43.json
+kids_script_47.json
+men_cards_extracted.json
+men_deep_extracted.json
+men_initial_state.json
+men_parsed_all.json
+parsed_kids_47.json
+women_cards_extracted.json
+women_deep_extracted.json
+women_initial_state.json
+women_parsed_all.json
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
